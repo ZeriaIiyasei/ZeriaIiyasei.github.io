@@ -1,0 +1,60 @@
+#border, #b1, #b2, #b3, #b4, #b5 {
+     border:1px solid gray;
+}
+#b11, #b12, #b13, #b14, #b15 {
+     border:1px solid gray;
+} 
+#b21, #b22, #b23, #b24, #b25 {
+     border:1px solid gray;
+}
+#b31, #b32, #b33, #b34, #b35 {
+     border:1px solid gray;
+}
+#b41, #b42, #b43, #b44, #b45 {
+    border:1px solid gray;
+}
+#b51, #b52, #b53, #b54, #b55 {
+     border:1px solid gray;
+}
+Table Caption {
+    font-size: 20px;
+    font-style:italic;
+}
+h1 {
+    font-size: 20px;
+    font-style:italic;
+}
+ol {
+    margin-left: 15px;
+}
+ol li {
+    position:relative;
+    left: 2em;
+    padding-right: 1em;
+}
+#mt {
+    float:inline-start;
+    padding-right: 25px;
+}
+#mtw {
+    float:none;
+    padding-top: 14px;
+}
+#b1, #b11, #b12, #b13, #b14, #b15 {
+    background-color: aquamarine;
+}
+#b2, #b21, #b22, #b23, #b24, #b25 {
+    background-color: rgb(39, 39, 255);
+}
+#b3, #b31, #b32, #b33, #b34, #b35 {
+    background-color: rgb(255, 224, 124);
+}
+#b4, #b41, #b42, #b43, #b44, #b45 {
+    background-color:rgb(197, 165, 255);
+}
+#b5, #b51, #b52, #b53, #b54, #b55 {
+    background-color:blueviolet;
+}
+#fgc {
+    font-size: 18px;
+}
